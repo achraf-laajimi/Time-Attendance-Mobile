@@ -38,9 +38,3 @@ A comprehensive Flutter-based enterprise management system designed to streamlin
 ### Prerequisites
 - Flutter 3.4.3 or higher
 - Dart SDK 3.0 or higher
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/timeAttendance-Mobile.git
